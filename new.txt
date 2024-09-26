@@ -1,0 +1,15 @@
+goos: darwin
+goarch: arm64
+pkg: golang
+BenchmarkFooPBV-8   	1000000000	         0.3188 ns/op
+BenchmarkFooPBV-8   	1000000000	         0.3127 ns/op
+BenchmarkFooPBV-8   	1000000000	         0.3130 ns/op
+BenchmarkFooPBV-8   	1000000000	         0.3143 ns/op
+BenchmarkFooPBV-8   	1000000000	         0.3141 ns/op
+BenchmarkFooPBP-8   	1000000000	         0.3135 ns/op
+BenchmarkFooPBP-8   	1000000000	         0.3128 ns/op
+BenchmarkFooPBP-8   	1000000000	         0.3129 ns/op
+BenchmarkFooPBP-8   	1000000000	         0.3133 ns/op
+BenchmarkFooPBP-8   	1000000000	         0.3140 ns/op
+PASS
+ok  	golang	3.845s
